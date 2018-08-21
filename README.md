@@ -1,1 +1,1 @@
-# GPU-SpatialJoin
+# GPU-Spatial Join
