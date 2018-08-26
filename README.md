@@ -1,4 +1,4 @@
-# GPU-Spatial Join
+# GPU-Spatial Join amomg polygons
 
 Small GIS shape files link: https://www.dropbox.com/sh/uikipog04hcuza9/AAA8a9uGqvxAYyXmyUGdRuEda?dl=0
 
