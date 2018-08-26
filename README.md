@@ -14,3 +14,5 @@ by Danial Aghajarian	(Georgia State University)
 As a first version of GCMF in Python, its performance is not as good as the results reported in the original paper. 
 This can be explained by two main reasons: (1) Utilization of GPU; (2) my limited understanding of the GCMF. I developed 
 a load-balanced version as well but it did not work as well as I expected. I will be turning this in C/C++ and updating on Github.
+
+....
