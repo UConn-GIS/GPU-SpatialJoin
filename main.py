@@ -7,7 +7,7 @@ Name:      Spatial join filter
 # modules
 import os.path
 import timeit
-import functions_GPU as fn
+import functions as fn
 
 # file path 
 root = r'C:\Users\downloads'
